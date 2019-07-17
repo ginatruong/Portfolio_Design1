@@ -1,0 +1,27 @@
+{
+  "name": "Portfolio_Design1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "live-server",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginatruong/Portfolio_Design1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginatruong/Portfolio_Design1/issues"
+  },
+  "homepage": "https://github.com/ginatruong/Portfolio_Design1#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
